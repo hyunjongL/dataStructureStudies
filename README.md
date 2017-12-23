@@ -5,8 +5,7 @@ The Data Structure list is from the link below.
 https://www.geeksforgeeks.org/advanced-data-structures/
 
 ## Lists
-~~1. Generic Linked List~~
-
+1. ~~Generic Linked List~~
 2. Memory Efficient Doubly Linked List
 3. XOR Linked List
 4. Skip List
