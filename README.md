@@ -1,9 +1,10 @@
 # dataStructureStudies
 Repo for Studying Data Structures
 
+Data Structure list is from the below link.
 https://www.geeksforgeeks.org/advanced-data-structures/
 
-# Lists
+## Lists
 1. Generic Linked List
 2. Memory Efficient Doubly Linked List
 3. XOR Linked List
@@ -11,7 +12,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 5. Self Organizing List
 6. Unrolled Linked List
 
-# Segment Trees
+## Segment Trees
 1. Sum of given range
 2. Range minimum query
 3. Lazy Propagation
@@ -33,7 +34,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 19. Longest Common Extension / LCE | Set 2 ( Reduction to RMQ)
 20. Longest Common Extension / LCE | Set 3 (Segment Tree Method)
 
-# Trie
+## Trie
 1. Trie | (Insert and Search)
 2. Trie | (Delete)
 3. Longest prefix matching – A Trie based solution in Java
@@ -58,7 +59,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 22. How to Implement Reverse DNS Look Up Cache?
 23. How to Implement Forward DNS Look Up Cache?
 
-# Binary Indexed Tree
+## Binary Indexed Tree
 1. Binary Indexed Tree or Fenwick Tree
 2. Two Dimensional Binary Indexed Tree or Fenwick Tree
 3. Binary Indexed Tree : Range Updates and Point Queries
@@ -73,7 +74,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 12. proto van Emde Boas Trees | Background and Introduction
 13. Suffix Array and Suffix Tree :
 
-# Suffix Array Introduction
+## Suffix Array Introduction
 1. Suffix Array nLogn Algorithm
 2. kasai’s Algorithm for Construction of LCP array from Suffix Array
 3. Suffix Tree Introduction
@@ -92,33 +93,33 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 17. Suffix Tree Application 6 – Longest Palindromic Substring
 20. Print Kth character in sorted concatenated substrings of a string
 
-# AVL
+## AVL
 1. AVL Tree | Set 1 (Insertion)
 2. AVL Tree | Set 2 (Deletion)
 3. AVL with duplicate keys
 
-# Splay Tree
+## Splay Tree
 1. Splay Tree | Set 1 (Search)
 2. Splay Tree | Set 2 (Insert)
 
-# B Tree
+## B Tree
 1. B-Tree | Set 1 (Introduction)
 2. B-Tree | Set 2 (Insert)
 3. B-Tree | Set 3 (Delete)
 4. Quiz on B Tree
 
-# Red Black Tree
+## Red Black Tree
 1. Red-Black Tree | Set 1 (Introduction)
 2. Red Black Tree Insertion
 3. Red-Black Tree Deletion
 4. C Program for Red Black Tree Insertion
 
-# ScapeGoat Tree and Treap
+## ScapeGoat Tree and Treap
 1. ScapeGoat Tree | (Introduction and Insertion)
 2. Treap | Set 1 (A Randomized Binary Search Tree)
 3. Treap | Set 2 (Implementation of Search, Insert and Delete)
 
-# Problems
+## Problems
 1. Maximum subarray sum modulo m
 2. Find N’th item in a set formed by sum of two arrays
 3. Count smaller elements on right side
@@ -131,23 +132,23 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 10. last unique URL from long list of URLs in single traversal
 11. ‘Quiz’ on Balanced Binary Searched Trees
 
-# k Dimensional Tree
+## k Dimensional Tree
 1. K D Tree (Search and Insert)
 2. K D Tree (Find Minimum)
 3. K D Tree (Delete)
 
-# Disjoint Set
+## Disjoint Set
 1. Disjoint Set Data Structures (Java Implementation)
 2. Find the number of Islands
 
-# n-ary Trees and LCA
+## n-ary Trees and LCA
 1. Left-Child Right-Sibling Representation of Tree
 2. LCA for general or n-ary trees (Sparse Matrix DP approach < O(nlogn), O(logn)>)
 3. Sqrt (or Square Root) Decomposition | Set 2 (LCA of Tree in O(sqrt(height)) time)
 4. LCA for n-ary Tree | Constant Query O(1)
 5. Tarjan’s off-line lowest common ancestors algorithm
 
-# Others
+## Others
 1. Palindromic Tree | Introduction & Implementation
 2. Ternary Search Tree
 3. Interval Tree
@@ -176,7 +177,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 26. Centroid Decomposition of Tree
 27. Gomory-Hu Tree
 
-# Misc
+## Misc
 1. Persistent Data Structure
 2. Tree Sort
 3. Applications of tree data structure
