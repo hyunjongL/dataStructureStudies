@@ -1,7 +1,7 @@
-# dataStructureStudies
-Repo for Studying Data Structures
+# Data Structure Implementations in C(C++) / Java / Python
+Repo for Studying and Implementing Advanced Data Structures
 
-Data Structure list is from the below link.
+The Data Structure list is from the link below.
 https://www.geeksforgeeks.org/advanced-data-structures/
 
 ## Lists
