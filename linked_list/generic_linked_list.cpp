@@ -1,4 +1,15 @@
 //generic_linked_list.cpp
+/*
+  Generic Linked Lists
+  We want to make a list that can store any kind of values.
+  So, what I have thought is to make a list that stores void pointers pointing
+  whatever values I put in. The important part is how are we going to interpret
+  the values. I suggest a way to read/traverse nodes with a function as a parameter.
+  For example 'printInt' below describes a function that prints int stored in
+  a void pointer. Which means, if I store integers in the list, I can skim through
+  the list and print what is stored inside. We usually store only one kind of type
+  in a datastructure, so this approach seems legit.*/
+
 #include <iostream>
 #include "generic_linked_list.hpp"
 

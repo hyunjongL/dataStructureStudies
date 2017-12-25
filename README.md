@@ -7,7 +7,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 ## Lists
 1. ~~Generic Linked List~~
 2. ~~Memory Efficient Doubly Linked List~~
-3. XOR Linked List
+3. ~~XOR Linked List~~
 4. Skip List
 5. Self Organizing List
 6. Unrolled Linked List
@@ -44,7 +44,7 @@ https://www.geeksforgeeks.org/advanced-data-structures/
 7. Print all words matching a pattern in CamelCase Notation Dictonary
 8. Implement a Phone Directory
 9. Construct a unique matrix n x n for an input n
-10.Print unique rows in a given boolean matrix
+10. Print unique rows in a given boolean matrix
 11. Count of distinct substrings of a string using Suffix Trie
 12. Find pair of rows in a binary matrix that has maximum bit difference
 13. Minimum XOR Value Pair
